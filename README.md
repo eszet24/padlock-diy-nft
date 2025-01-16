@@ -1,4 +1,4 @@
-## padlock-diy-nft
+# Do-IT-Yourself, Non-fungible Token PADLOCK
 
 My student's capstone project for computational creativty: [Basis idea](Padlock_DIY_NFT.pptx)
 
