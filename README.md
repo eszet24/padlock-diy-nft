@@ -7,4 +7,6 @@ Designing a virtual padlock which later might be used as do-it-yourself non-fung
 
 For a mock-up prototype for input parameters see Typeform questions: [Go for IT!](https://d23ts0502kd.typeform.com/to/PJymS2qK) (Attention: Open Link in new tab)
 
+See [current deployment!](https://play.rosebud.ai/p/c2097f36-5a57-4170-aa96-44c9f5a3fcb8) 
+
 ![Logo](/DIY_NFT_Images/DIY_NFT_Logo.png)
