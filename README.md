@@ -7,7 +7,7 @@ Designing a virtual padlock which later might be used as do-it-yourself non-fung
 
 For a mock-up prototype for input parameters see Typeform questions: [Go for IT!](https://d23ts0502kd.typeform.com/to/PJymS2qK) (Recommended: open link in new tab)
 
-Functional components for deployment can be tested in a [Jupyter Notebook](DIY_NFT_Padlock.jpynb).
+Functional components for deployment can be tested in a [Jupyter Notebook](https://github.com/eszet24/padlock-diy-nft/blob/main/DIY_NFT_Padlock.ipynb).
 
 Check out here for [latest web deployment](https://play.rosebud.ai/p/c2097f36-5a57-4170-aa96-44c9f5a3fcb8) 
 
